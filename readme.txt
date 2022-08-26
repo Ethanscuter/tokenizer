@@ -7,3 +7,6 @@ Requirement:
     - Python 3.8
     - Pandas 1.3.4
     - Jieba 0.42.1
+
+Citation:
+    JW, XW, XL, CB, "title" at BMR 2022.
