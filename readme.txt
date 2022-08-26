@@ -9,3 +9,4 @@ Requirement:
     - Jieba 0.42.1
 
 Citation:
+    JW, XW, XL, CB, "title" at BMR 2022.
