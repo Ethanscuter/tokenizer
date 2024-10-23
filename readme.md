@@ -1,4 +1,4 @@
-# BRM Journal '22: Chinese Words Frequencies Analysis 
+# Chinese Words Frequencies Analysis 
 
 ## BRM is a project for Chinese words frequencies analysis.
 
@@ -10,5 +10,3 @@
     - Pandas 1.3.4
     - Jieba 0.42.1
 
-## Citation:
-    > Jingwen Wang, Xintong Wang, Chris Biemann, Xingshan Li, "title", BRM 2022.
